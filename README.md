@@ -16,7 +16,7 @@ Tutorial: http://www.itechempires.com/2017/09/laravel-5-5-api-user-authenticatio
 - Clone the complete repository with Git Use following command
 
 ```sh
-$ git clone https://github.com/itechempires/laravel-passport.git
+$ git clone https://github.com/yogeshkoli/laravel-passport.git
 ```
 
 - Install required packages:
